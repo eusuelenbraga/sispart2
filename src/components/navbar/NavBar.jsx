@@ -5,7 +5,7 @@ import Reembolso from "../../assets/Header/Botão - Reembolso.png";
 import Sair from "../../assets/Header/Botão - Sair.png";
 import Perfil from "../../assets/Header/image.png";
 import Fechar from "../../assets/Header/imagem-fechar-header.png";
-import styles from "./NavBar.module.scss";
+import styles from "./Navbar.module.scss";
 import { useNavigate } from "react-router-dom";
 
 function NavBar(){
