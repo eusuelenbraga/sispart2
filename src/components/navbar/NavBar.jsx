@@ -1,5 +1,5 @@
 import Historico from "../../assets/Header/Botão - Histórico.png";
-import Home from "../../assets/Header/Botão - Home.png";
+import Home from "../../assets/Header/botão - Home.png";
 import Pesquisa from "../../assets/Header/Botão - Pesquisa.png";
 import Reembolso from "../../assets/Header/Botão - Reembolso.png";
 import Sair from "../../assets/Header/Botão - Sair.png";
